@@ -1,7 +1,7 @@
 # PROZ-MINESWEEPER
-Projesct for a subject PROZ (programowanie zdarzeniowe)
+Project for a subject PROZ (programowanie zdarzeniowe-Event-driven programming)
 It is minesweeper game.   
-User can set width and lenght of a board, amount of mines in a given range.   
+User can set width and length of a board, amount of mines in a given range.   
 Mines are put on the borad randomly.
 # EXAMPLE
 ## START VIEW
